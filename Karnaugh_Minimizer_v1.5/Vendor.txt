@@ -1,0 +1,6 @@
+Distribution
+------------
+This software may be distributed freely on online
+services, bulletin boards, or other electronic media
+as long as the files are distributed in their
+unmodified entirety.

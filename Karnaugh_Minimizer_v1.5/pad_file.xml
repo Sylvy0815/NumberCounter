@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>1.15</MASTER_PAD_VERSION>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>ShurikSoft</Company_Name>
+		<Address_1/>
+		<Address_2/>
+		<City_Town/>
+		<State_Province/>
+		<Zip_Postal_Code/>
+		<Country>Ukraine</Country>
+		<Company_WebSite_URL>http://www.shuriksoft.com</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>Alexander</Author_First_Name>
+			<Author_Last_Name>Mazuruk</Author_Last_Name>
+			<Author_Email>karnaugh@shuriksoft.com</Author_Email>
+			<Contact_First_Name>Alexander</Contact_First_Name>
+			<Contact_Last_Name>Mazuruk</Contact_Last_Name>
+			<Contact_Email>info@shuriksoft.com</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>mailto:support@shareit.com?Subject=Order of program #154431</Sales_Email>
+			<Support_Email>karnaugh@shuriksoft.com</Support_Email>
+			<General_Email>info@shuriksoft.com</General_Email>
+			<Sales_Phone/>
+			<Support_Phone/>
+			<General_Phone/>
+			<Fax_Phone/>
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>Karnaugh Minimizer</Program_Name>
+		<Program_Version>1.5</Program_Version>
+		<Program_Release_Month>02</Program_Release_Month>
+		<Program_Release_Day>10</Program_Release_Day>
+		<Program_Release_Year>2004</Program_Release_Year>
+		<Program_Cost_Dollars>20</Program_Cost_Dollars>
+		<Program_Cost_Other_Code/>
+		<Program_Cost_Other/>
+		<Program_Type>Shareware</Program_Type>
+		<Program_Release_Status>Minor Update</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>Win95,Win98,WinME,WinNT 3.x,WinNT 4.x,WinXP,Windows2000</Program_OS_Support>
+		<Program_Language>English,Russian,Polish,Italian,Spanish,Romanian,Portugues,Vietnamese,Czech,Chinese</Program_Language>
+		<File_Info>
+			<Filename_Versioned>kmin14.zip</Filename_Versioned>
+			<Filename_Previous>kmin13.zip</Filename_Previous>
+			<Filename_Generic>kmin.zip</Filename_Generic>
+			<Filename_Long>kmin.zip</Filename_Long>
+			<File_Size_Bytes>1074318</File_Size_Bytes>
+			<File_Size_K>1074</File_Size_K>
+			<File_Size_MB>1.07</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Count/>
+			<Expire_Based_On>Functional limitation</Expire_Based_On>
+			<Expire_Other_Info/>
+			<Expire_Month/>
+			<Expire_Day/>
+			<Expire_Year/>
+		</Expire_Info>
+		<Program_Change_Info/>
+		<Program_Specific_Category>Education</Program_Specific_Category>
+		<Program_Categories>Mathematic, Tools, Utils</Program_Categories>
+		<Program_System_Requirements/>
+		<Includes_JAVA_VM>N</Includes_JAVA_VM>
+		<Includes_VB_Runtime>N</Includes_VB_Runtime>
+		<Includes_DirectX>N</Includes_DirectX>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>Karnaugh, Boolean, Algebra, SOP, POS, Viech, Map, Student, Minimization, implicant, term, product, education</Keywords>
+			<Char_Desc_45>Karnaugh maps  minimization</Char_Desc_45>
+			<Char_Desc_80>Boolean Algebra assistant program</Char_Desc_80>
+			<Char_Desc_250>Boolean Algebra assistant program
+The program allows to minimize Boolean function by a graphic 
+method of Karnaugh maps.
+The program is intended for the  electrical engineering students.</Char_Desc_250>
+			<Char_Desc_450>Boolean Algebra assistant program
+is an interactive program extremely easy to use.
+The program is intended for the developers of small 
+digital devices or simply of radioamateurs, and as 
+for those who is familiar with Boolean algebra, for 
+the electrical engineering students. The program 
+allows to minimize Boolean function by a graphic 
+method of Karnaugh maps.</Char_Desc_450>
+			<Char_Desc_2000>Boolean Algebra assistant program
+is an interactive program extremely easy to use.
+A must-have tool for the freshmen electrical 
+engineering student.
+The program is intended for the developers of small 
+digital devices or simply of radioamateurs, and as 
+for those who is familiar with Boolean algebra, for 
+the electrical engineering students. The program 
+allows to minimize Boolean function by a graphic 
+method of Karnaugh maps. A must-have tool for the 
+freshmen electrical engineering student.
+The given program is called to facilitate 
+minimization of Boolean function by a method of 
+Karnaugh maps. The program has the simple and 
+convenient interface, evident image of received 
+results of minimization.The program draws the 
+so-called largest circle and displays the prime 
+implicant solution. 
+
+Program Features:
+  -= Shows output in either SOP or POS format 
+  -= Create circuit from boolean formula
+  -= Handle maximum 8 boolean variables
+  -= Will find and eliminate redundant terms 
+  -= Will handle don&apos;t care conditions. 
+  -= Allows you to click on a term in a given expression and view it on the map. 
+      The program will indicate the corresponding term with a fill cells. 
+  -= Draws 2,3, 4, 5,6,7,8  variable Karnaugh Map 
+  -= Simplifies expressions that you type in.
+  -= Fill map with several ways -[ Truth table, Sets, Boolean formula  ] 
+  -= Multi lingual user interface. You can add your native language to program.
+  -= Allow to edit variables names to different than A,B,C... etc.
+  -= Export Map to HTML table to easyer creation of synthesis reports.
+  -= Automated creation of reports.</Char_Desc_2000>
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://karnaugh.shuriksoft.com</Application_Info_URL>
+			<Application_Order_URL>https://secure.element5.com/shareit/checkout.html?productid=154431&amp;language=English</Application_Order_URL>
+			<Application_Screenshot_URL>http://karnaugh.shuriksoft.com/images/karnaugh.jpg</Application_Screenshot_URL>
+			<Application_Icon_URL/>
+			<Application_XML_File_URL>http://karnaugh.shuriksoft.com/pad_file.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://karnaugh.shuriksoft.com/kmin.zip</Primary_Download_URL>
+			<Secondary_Download_URL/>
+			<Additional_Download_URL_1/>
+			<Additional_Download_URL_2/>
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions>Distribution
+------------
+This software may be distributed freely on online
+services, bulletin boards, or other electronic media
+as long as the files are distributed in their
+unmodified entirety.</Distribution_Permissions>
+		<EULA>Karnaugh Minimizer, Copyright (c) 2002-2004 ShurikSoft. All rights reserved.
+WWW:    http://karnaugh.shuriksoft.com
+Email:  karnaugh@shuriksoft.com
+____________________________________
+
+END-USER LICENSE AGREEMENT 
+FOR THIS SOFTWARE
+Important - read carefully:
+
+
+License Agreement for Karnaugh Minimizer
+--------------------------------------
+This license is a legal agreement between you and the
+author of Karnaugh Minimizer.  Your use of this software
+indicates your acceptance of this license agreement.
+
+Evaluation and Registration
+---------------------------
+You are permitted to use this software with
+functional limitations as long as you wish.
+However, to receive fully functional version and
+technical support you must register your 
+copy of Karnaugh Minimizer.
+
+Each registration fee covers the use of one copy of
+this software to be used by one user at a time.
+
+Distribution
+------------
+This software may be distributed freely on online
+services, bulletin boards, or other electronic media
+as long as the files are distributed in their
+unmodified entirety.
+
+Disclaimer
+----------
+No warranty is made with respect of the software,
+its quality, performance, or fitness for any
+particular purpose. The software is supplied &apos;as is&apos;.
+No responsibility will be accepted for any errors
+produced or the consequences of any erroneous results.
+
+Copyright 
+---------
+Copyright (c) 2002-2004 ShurikSoft.</EULA>
+	</Permissions>
+<Simtel>    
+    <Simtel_FORM>Y</Simtel_FORM>
+    <Simtel_DOS_Category>Select - MS-DOS Platform (blank)</Simtel_DOS_Category>    
+    <Simtel_Platform>winxp - Windows XP</Simtel_Platform>
+    <Simtel_Category>Education - edumath Education: Math, Arithmetic</Simtel_Category>
+    <SIMTEL_FORM_VER>1.7 03/25/2003</SIMTEL_FORM_VER>
+</Simtel>
+   <ASP>
+	<ASP_FORM>Y</ASP_FORM>
+	<ASP_Member>Y</ASP_Member>
+	<ASP_Member_Number>05215</ASP_Member_Number>
+   </ASP>
+</XML_DIZ_INFO>
